@@ -27,11 +27,8 @@
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com/xcode/uikit/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/uikit.png" alt="uikit" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/documentation/swiftui/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="swiftui" width="40" height="40"/>
+  <a href="https://developer.apple.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="apple" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -43,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/xcode.png" alt="xcode" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -55,6 +52,7 @@
     <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
