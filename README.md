@@ -25,23 +25,23 @@
 ### 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/praveenagarwal01/" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" width="40"/>
   </a>&nbsp;&nbsp;
 
-  <a href="mailto:your-email@example.com" target="_blank" title="Gmail">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40"/>
+  <a href="mailto:praveenagarwal0901@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/Praveen_Agarwal/" target="_blank" title="LeetCode">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="30" width="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="30" width="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/musicxcode" target="_blank" title="CodeChef">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" alt="CodeChef" height="30" width="40"/>
+    <img src="https://img.icons8.com/color/48/codechef.png" alt="CodeChef" height="30" width="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/praveenagarwal0901" target="_blank" title="Codeforces">
-    <img src="https://sta.codeforces.com/s/22766/images/icons/favicon.ico" alt="Codeforces" height="30" width="40"/>
+    <img src="https://sta.codeforces.com/s/24399/images/icons/favicon.ico" alt="Codeforces" height="30" width="40"/>
   </a>
 </p>
 
