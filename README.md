@@ -105,6 +105,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-Agarwal&theme=tokyonight&area=true&hide_border=true" width="100%">
 </p>
+
 
