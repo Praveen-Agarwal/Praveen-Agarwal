@@ -91,8 +91,8 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenagarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="praveenagarwal github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Praveen-Agarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="Praveen-Agarwal GitHub stats"/>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenagarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Agarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
