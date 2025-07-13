@@ -89,41 +89,20 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Agarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="Praveen-Agarwal GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Agarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Agarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Agarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-Agarwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-Agarwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Agarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-Agarwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Praveen-Agarwal&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
