@@ -41,9 +41,10 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/praveenagarwal0901" target="_blank" title="Codeforces">
-    <img src="https://sta.codeforces.com/s/24399/images/icons/favicon.ico" alt="Codeforces" height="30" width="40"/>
+    <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="Codeforces" height="30" width="40"/>
   </a>
 </p>
+
 
 ---
 
