@@ -24,53 +24,42 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank">
+  <a href="https://developer.apple.com/swift/" target="_blank" title="Swift">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-    <br>Swift
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://developer.apple.com/" target="_blank">
+
+  <a href="https://developer.apple.com/" target="_blank" title="Apple">
     <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="Apple" width="40" height="40"/>
-    <br>Apple
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <br>Java
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <br>C++
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <br>Postman
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://developer.apple.com/xcode/" target="_blank">
+  <a href="https://developer.apple.com/xcode/" target="_blank" title="Xcode">
     <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode" width="40" height="40"/>
-    <br>Xcode
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <br>Git
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
-    <br>Jira
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://bitbucket.org/" target="_blank">
+  <a href="https://bitbucket.org/" target="_blank" title="Bitbucket">
     <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
-    <br>Bitbucket
   </a>
 </p>
-
-
 
 ---
 
