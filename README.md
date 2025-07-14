@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Building high-quality, exclusive iOS applications**
 - 🌱 Exploring **System Design, Swift Concurrency, and Core Data optimizations**
-- 💬 Ask me about **Swift, iOS, Java, Kotlin**
+- 💬 Ask me about **Swift, iOS, Java, C++**
 - ⚡ Fun fact: I love solving system puzzles and optimizing app performance.
 
 ---
